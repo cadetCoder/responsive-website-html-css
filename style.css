@@ -15,3 +15,7 @@ header {
   margin: auto;
   align-items: center;
 }
+
+.logo-container {
+  background: lightblue;
+}
