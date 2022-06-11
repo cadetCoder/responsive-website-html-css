@@ -16,6 +16,10 @@ header {
   align-items: center;
 }
 
+.logo-container, .nav-links, .nav-links {
+  display: flex;
+}
+
 .logo-container {
   flex: 1;
 }
