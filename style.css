@@ -18,4 +18,5 @@ header {
 
 .logo-container {
   background: lightblue;
+  flex: 1;
 }
