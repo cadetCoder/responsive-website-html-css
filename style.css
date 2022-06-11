@@ -24,3 +24,7 @@ header {
 .nav-links {
   flex: 2;
 }
+
+.cart {
+  flex: 1;
+}
