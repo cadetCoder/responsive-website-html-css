@@ -20,3 +20,7 @@ header {
   background: lightblue;
   flex: 1;
 }
+
+.nav-links {
+  flex: 2;
+}
