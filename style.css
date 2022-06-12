@@ -24,6 +24,11 @@ header {
   flex: 1;
 }
 
+.log {
+  font-weight: 400;
+  margin: 4px;
+}
+
 .nav-links {
   flex: 2;
 }
