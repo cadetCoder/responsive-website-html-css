@@ -40,6 +40,7 @@ nav {
 
 .nav-link {
   color: #5f5f79;
+  font-size: 18px;
 }
 .cart {
   flex: 1;
