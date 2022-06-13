@@ -34,7 +34,7 @@ nav {
 }
 
 .nav-links {
-  flex: 2;
+  justify-content: space-around;
 }
 
 .cart {
