@@ -41,11 +41,9 @@ nav {
 .nav-link {
   color: #5f5f79;
   font-size: 18px;
-}
-
-.nav-link a {
   text-decoration: none;
 }
+
 .cart {
   flex: 1;
 }
