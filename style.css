@@ -57,6 +57,7 @@ nav {
   width: 90%;
   margin: auto;
   min-height: 80vh;
+  align-items: center;
 }
 
 .cover img {
