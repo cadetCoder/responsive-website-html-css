@@ -55,6 +55,7 @@ nav {
 .presentation {
   display: flex;
   width: 90%;
+  margin: auto;
 }
 
 .cover img {
