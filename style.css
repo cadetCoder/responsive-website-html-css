@@ -60,6 +60,15 @@ nav {
   align-items: center;
 }
 
+.introduction {
+  flex: 1;
+}
+
+
+.cover {
+  flex: 1;
+}
+
 .cover img {
   height: 60vh;
 }
