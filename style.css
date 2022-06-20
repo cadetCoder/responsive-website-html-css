@@ -64,6 +64,9 @@ nav {
   flex: 1;
 }
 
+.introduction-text h1 {
+  font-size: 44px;
+}
 
 .cover {
   flex: 1;
