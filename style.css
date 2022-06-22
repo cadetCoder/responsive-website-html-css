@@ -78,6 +78,9 @@ nav {
   color: #585772;
 }
 
+.cta {
+  padding: 50px 0px 0px 0px;
+}
 .cover {
   flex: 1;
 }
