@@ -81,6 +81,11 @@ nav {
 .cta {
   padding: 50px 0px 0px 0px;
 }
+
+.cta-select {
+  border: 2px solid #c36cbb;
+}
+
 .cover {
   flex: 1;
 }
