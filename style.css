@@ -8,6 +8,10 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 
+button {
+	font-family: 'Poppins', sans-serif;
+}
+
 header {
 	display: flex;
   width: 80%; 
