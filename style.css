@@ -96,6 +96,16 @@ nav {
   font-size: 16px;
 }
 
+.cta-add {
+  border: none;
+  background: #c36cbb;
+  color: white;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
 .cover {
   flex: 1;
 }
