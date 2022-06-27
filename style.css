@@ -124,3 +124,9 @@ nav {
   opacity: 0.7;
   height: 80%;
 }
+
+.medium-circle {
+  position: absolute;
+  top: 30%;
+  right: 30%;
+}
