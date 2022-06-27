@@ -132,3 +132,10 @@ nav {
   z-index: -1;
   height: 60%;
 }
+
+.small-circle {
+  position: absolute;
+  bottom: 0%;
+  left: 20%;
+  z-index: -1;
+}
