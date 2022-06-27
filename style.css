@@ -131,6 +131,7 @@ nav {
   right: 30%;
   z-index: -1;
   height: 60%;
+  opacity: 0.5;
 }
 
 .small-circle {
