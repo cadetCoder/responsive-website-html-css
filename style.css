@@ -29,6 +29,7 @@ header {
 
 .logo-container {
   flex: 1;
+  display: flex;
 }
 
 .logo {
