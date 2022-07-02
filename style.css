@@ -153,3 +153,9 @@ nav {
 		transform: translateY(0px);
 	}
 }
+
+@media screen and (max-width: 1024px) {
+  .presentation {
+    flex-direction: column;
+  }
+}
