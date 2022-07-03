@@ -171,4 +171,8 @@ nav {
 		margin-top: 5vh;
 		text-align: center;
 	}
+	.cover img {
+		width: 220px;
+		margin-top: 20px;
+	}
 }
