@@ -167,4 +167,8 @@ nav {
   .presentation {
     flex-direction: column;
   }
+	.introduction {
+		margin-top: 5vh;
+		text-align: center;
+	}
 }
