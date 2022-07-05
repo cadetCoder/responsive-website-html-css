@@ -172,7 +172,10 @@ nav {
 		text-align: center;
 	}
 	.cover img {
-		width: 220px;
+		width: 20%;
 		margin-top: 20px;
+	}
+	.intro-text {
+		font-size: 30px;
 	}
 }
