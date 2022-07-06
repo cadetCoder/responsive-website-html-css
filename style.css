@@ -181,4 +181,7 @@ nav {
 	.intro-text p {
 		font-size: 18px;
 	}
+	.cta {
+		padding: 10px 0px 0px 0px;
+	}
 }
