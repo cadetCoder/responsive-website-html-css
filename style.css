@@ -164,18 +164,14 @@ nav {
 }
 
 @media screen and (max-width: 1024px) {
-  .presentation {
-    flex-direction: column;
-  }
+	.presentation {
+		flex-direction: column;
+	}
 	.introduction {
 		margin-top: 5vh;
 		text-align: center;
 	}
-	.cover img {
-		width: 20%;
-		margin-top: 20px;
-	}
-	.intro-text {
+	.intro-text h1 {
 		font-size: 30px;
 	}
 	.intro-text p {
@@ -183,5 +179,11 @@ nav {
 	}
 	.cta {
 		padding: 10px 0px 0px 0px;
+	}
+	.laptop-select {
+		bottom: 5%;
+		right: 50%;
+		width: 50%;
+		transform: translate(50%, 5%);
 	}
 }
